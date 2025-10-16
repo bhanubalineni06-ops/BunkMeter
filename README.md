@@ -1,10 +1,10 @@
-# 🍏 Bunkifyyy Attendance Calculator
+# 🍏 BunkMeter Attendance Calculator
 
 > **Minimal. Elegant. Unique.**
 
 ## About
 
-**Bunkifyyy** is a beautifully simple attendance calculator for students, now with a unique look, smooth animations, and extra Gowtham branding. Instantly find out how many classes you can bunk or need to attend to maintain your target attendance percentage.
+**Bunkmeter** is a beautifully simple attendance calculator for students, now with a unique look, smooth animations, and extra Gowtham branding. Instantly find out how many classes you can bunk or need to attend to maintain your target attendance percentage.
 
 ---
 
@@ -39,5 +39,5 @@ Pull requests are welcome! For major changes, please open an issue first.
 ---
 
 <div align="center" style="margin-top:2rem; color:#b0b0b4; font-style:italic;">
-  Made with <span style="color:#ff2d55;">&#10084;</span> by Gowtham
+  Made with <span style="color:#ff2d55;">&#10084;</span> by BReddy
 </div>
